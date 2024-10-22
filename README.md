@@ -19,7 +19,7 @@ I'm a dual degree student in **Industrial Engineering** and **Computer Science**
 - **Open-source contributions** related to AI, machine learning, or reliability engineering.
 
 ### 📫 How to reach me:
-- Email: heloisa.almeida@example.com
+- Email: heloisalmeida37@gmail.com
 - LinkedIn: [Heloisa Almeida](https://www.linkedin.com/in/heloisaalmeida)
 - GitHub: [@heloisalmeida](https://github.com/heloisalmeida)
 
