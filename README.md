@@ -12,7 +12,7 @@ I'm a dual degree student in **Industrial Engineering** and **Computer Science**
 - **Machine Learning** and **Data Mining** for large-scale data analysis, and how to combine it with Optimization.
 - **Optimization Techniques** for solving complex engineering and computational problems. Focus on the RSA problem for telecom.
 - **C++** and object-oriented programming.
-- **Exploring high-performance computing and complexity in Computer Science.
+- Exploring high-performance computing and complexity in Computer Science.
 
 ### 💞️ I'm looking to collaborate on:
 - Projects involving **data analysis** and **machine learning** to solve real-world problems.
