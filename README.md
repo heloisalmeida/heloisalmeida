@@ -9,8 +9,8 @@ I'm a dual degree student in **Industrial Engineering** and **Computer Science**
 - 🌍 **Sustainability**: Using technology to create sustainable solutions.
 
 ### 🌱 I'm currently learning:
-- **Machine Learning** and **Data Mining** for large-scale data analysis.
-- **Optimization Techniques** for solving complex engineering and computational problems.
+- **Machine Learning** and **Data Mining** for large-scale data analysis, and how to combine it with Optimization.
+- **Optimization Techniques** for solving complex engineering and computational problems. Focus on the RSA problem for telecom.
 - **C++** and object-oriented programming in complex environments.
 - **Parallel and Distributed Computing**, exploring high-performance computing techniques.
 
