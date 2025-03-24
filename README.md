@@ -19,4 +19,4 @@ I'm a dual degree student in **Industrial Engineering** and **Computer Science**
 - GitHub: [@heloisalmeida](https://github.com/heloisalmeida)
 
 ### Hobbies:
-I love hiking in the mountains and camping! I've spent the last months exploring the Pyrenees in France. 🏔️
+I love hiking in the mountains and camping! I've spent the last months exploring the Pyrénées in France. 🏔️
